@@ -7,7 +7,9 @@ Correcta implementación y uso de los siguientes conceptos fundamentales de la p
 - Manejo de excepciones
 
 ## Descripción:
-Esta práctica está diseñada como una extensión directa de la Práctica 02. Este proyecto busca con la utilización de la clase abstracta Usuario, método abstracto, mostrarMenu(). Además de reglas de validación.
+Esta práctica está diseñada como una extensión directa de la Práctica 02. 
+
+Este proyecto busca con la utilización de la clase abstracta Usuario, método abstracto, mostrarMenu(). Además de reglas de validación.
 El probar la implementación correcta de Arreglos Interface y Menús de  Administrador y Empleado.
 
 ## Tecnologías utilizadas
